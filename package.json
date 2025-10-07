@@ -1,7 +1,9 @@
+
 {
   "name": "firstproject",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://Viku08.github.io/React-Movie-app",
   "type": "module",
   "scripts": {
     "dev": "vite",
